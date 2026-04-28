@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mohamed Elmansy
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;Problem+Solver;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
