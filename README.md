@@ -1,16 +1,35 @@
 # Hi 👋, I'm Mohamed Elmansy
 
-💻 Full Stack Developer | Passionate about building modern web applications
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🧐 I’m interested in **Full Stack Development**
-* 🌱 Currently improving my skills in **Frontend & Backend technologies**
-* 💻 I build responsive and scalable web applications
-* 🎯 My goal is to work as a professional **Full Stack Developer**
-* 📚 I’m always learning and exploring new technologies
+* 🧐 Interested in **Full Stack Development**
+* 💻 Building modern, responsive web applications
+* 🧠 Strong interest in **Problem Solving & Algorithms**
+* 🌱 Currently learning more about **Backend & System Design**
+* 🎯 Goal: Become a professional **Full Stack Developer**
+
+---
+
+## 🧠 Skills
+
+* 🧩 Problem Solving
+* 🧠 Data Structures & Algorithms (Basics)
+* 🔍 Analytical Thinking
+* 🤝 Teamwork & Communication
+
+---
+
+## 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js" />
+</p>
 
 ---
 
@@ -18,25 +37,27 @@
 
 ### 👨‍💻 Frontend
 
-* HTML5, CSS3
-* JavaScript (ES6+)
-* React.js
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
 ### ⚙️ Backend
 
-* Node.js
-* Express.js
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### 🗄️ Database
 
-* MongoDB
-* MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### 🧰 Tools
 
-* Git & GitHub
-* VS Code
-* Postman
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
@@ -44,7 +65,7 @@
 
 * 🔹 Portfolio Website (Coming Soon)
 * 🔹 Full Stack CRUD Applications
-* 🔹 Responsive Web Design مشاريع
+* 🔹 Responsive Websites
 
 ---
 
@@ -52,6 +73,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedelmansy22&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=mohamedelmansy22&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelmansy22&layout=compact&theme=tokyonight" />
 </p>
 
@@ -59,12 +84,13 @@
 
 ## 🌐 Connect with me
 
-* 💼 LinkedIn: (Add your link)
-* 📧 Email: (Add your email)
-* 🌍 Portfolio: (Add your portfolio if available)
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy turning ideas into real-world projects 🚀
+💡 I enjoy solving problems and turning ideas into real-world projects 🚀
